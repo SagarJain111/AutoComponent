@@ -10,6 +10,7 @@ public class SpringBootAutoComponentScanningApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootAutoComponentScanningApplication.class, args);
+		System.out.println("Runnn");
 	}
 
 }
